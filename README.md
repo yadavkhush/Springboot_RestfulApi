@@ -38,8 +38,6 @@ PUT /employee/{id}: Update an existing employee.
 
 DELETE /employee/{id}: Delete an employee by ID.
 
-POST /employee/login: Log in an employee and generate a token.
-
 Testing
 Use tools like Postman or curl to test the CRUD operations. Example:
 
